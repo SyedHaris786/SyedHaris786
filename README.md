@@ -1,3 +1,3 @@
-![Design and Development](<img src="DevBanner.png">)
+![Design and Development](DevBanner.png)
 
 ### Hi there 👋
