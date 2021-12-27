@@ -1,3 +1,3 @@
-![Design and Development](DevBanner.png)
+![Design and Development](DevBanner2.png)
 
 ### Hi there 👋
