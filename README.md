@@ -1,5 +1,7 @@
 ![Design and Development](DevBanner4.png)
 
+## Who am I? 
+A Cyber Security Analyst turned in to a Backend Developer to make this world a better place 💜
 
 ## ✍🏻 Publications
 
