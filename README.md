@@ -1,4 +1,4 @@
-![Design and Development](DevBanner2.png)
+![Design and Development](DevBanner3.png)
 
 
 ## ✍🏻 Publications
