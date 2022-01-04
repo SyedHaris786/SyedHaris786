@@ -1,7 +1,7 @@
 ![Design and Development](DevBannerFinal.png)
 
 ### 🦸‍♂️ Who am I? 
-<h3 align="center">A Cyber Security Analyst turned in to a Backend Developer to make this world a better place 💜 </h3>
+<h3 align="center">A Cyber Security Analyst learning Backend Development to make this world a better place 💜 </h3>
 
 ### ✍🏻 Publications
 
